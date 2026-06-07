@@ -1,4 +1,7 @@
 # CRUD Flask App with ML
+A small preview of the app:
+
+![App screenshot](static/screenshots/preview.png)
 
 A small Flask-based CRUD web app with an example machine learning model.
 
